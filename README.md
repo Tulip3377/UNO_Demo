@@ -24,9 +24,9 @@ A simple command-line UNO game built with Python. The project implements the bas
  <li>Clone this repository: <br>
 git clone https://github.com/Tulip3377/UNO_Demo.git</li> 
 <li>Open the project folder: <br>
-cd uno-game</li>
+cd UNO_Demo</li>
 <li>Run the game: <br>
-python uno.py</li>
+python game.py</li>
 </ol>
 
 <h1>How to Play</h1>
