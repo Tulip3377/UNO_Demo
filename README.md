@@ -22,7 +22,7 @@ A simple command-line UNO game built with Python. The project implements the bas
 <h1>How to Run</h1>
 <ol>
  <li>Clone this repository: <br>
-git clone https://github.com/Tulip3377/uno-game.git</li> 
+git clone https://github.com/Tulip3377/UNO.Demo.git</li> 
 <li>Open the project folder: <br>
 cd uno-game</li>
 <li>Run the game: <br>
